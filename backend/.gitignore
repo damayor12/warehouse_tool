@@ -1,0 +1,6 @@
+/node_modules
+*.sqlite
+
+frontend/node_modules
+*.sqlite
+backend/node_modules

@@ -1,0 +1,5 @@
+[
+  { "name": "Valentines Box", "quantity": 100, "price": 60 },
+  { "name": "Birthday Box", "quantity": 50, "price": 25 },
+  { "name": "Client Gift Box", "quantity": 30, "price": 15 }
+]

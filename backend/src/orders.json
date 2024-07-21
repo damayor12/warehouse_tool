@@ -1,0 +1,44 @@
+[
+  {
+    "total": 100,
+    "orderDate": "2023-09-15",
+    "shipping_address": "100 Dundas Street East",
+    "customer_email": "mike@gmail.com",
+    "customer_name": "Mike"
+  },
+  {
+    "total": 150,
+    "orderDate": "2023-11-15",
+    "shipping_address": "1 JohnStreet East",
+    "customer_email": "john@gmail.com",
+    "customer_name": "John"
+  },
+  {
+    "total": 150,
+    "orderDate": "2023-11-15",
+    "shipping_address": "1 LukeStreet East",
+    "customer_email": "Luke@gmail.com",
+    "customer_name": "Luke"
+  },
+  {
+    "total": 170,
+    "orderDate": "2023-11-15",
+    "shipping_address": "1 LisaStreet East",
+    "customer_email": "Lisa@gmail.com",
+    "customer_name": "Lisa"
+  },
+  {
+    "total": 120,
+    "orderDate": "2023-11-15",
+    "shipping_address": "1 JoshStreet East",
+    "customer_email": "Josh@gmail.com",
+    "customer_name": "Josh"
+  },
+  {
+    "total": 50,
+    "orderDate": "2023-11-15",
+    "shipping_address": "1 KenStreet East",
+    "customer_email": "Ken@gmail.com",
+    "customer_name": "Ken"
+  }
+]
